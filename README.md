@@ -1,4 +1,4 @@
-## 앙뇽 ╰(*°▽°*)╯
+## 안뇽이다 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 <!--
 **0826486/0826486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
