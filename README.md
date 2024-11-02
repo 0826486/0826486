@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HojungKimchi)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=HojungKim)
  
  </div>
  <div align="center">
