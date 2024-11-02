@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HojungKim)
+[![header](https://capsule-render.vercel.app/api?type=Waving&text=HojungKim)](https://capsule-render.vercel.app/api?type=waving&height=300&color=C6E7FF&text=Input%20text&fontColor=4A628A&fontSize=70)
  
  </div>
  <div align="center">
