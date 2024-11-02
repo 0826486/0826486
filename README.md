@@ -39,6 +39,5 @@
 <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=0826486&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0826486&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> </div> 
 
 <br>
-<p>이 github 프로필의 출처는 juyeon-bae에게 있습니다. 살짝 코드 줍줍? 이런 느낌</p>
     </div>
  
