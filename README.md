@@ -27,7 +27,7 @@
   
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Kim HoJung)](https://solved.ac/0826486)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=0826486)](https://solved.ac/0826486)<br/>
  
  
 <h3 align="center">⛏️ Tools</h3>
