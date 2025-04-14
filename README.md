@@ -1,4 +1,4 @@
-**👋 I'm Frontend developer, HojeongKim.**
+**👋 I'm Frontend developer, HojungKim.**
 
 💻 I'm currently using `Javascript`, `React`, `PHP`, ect..
 
